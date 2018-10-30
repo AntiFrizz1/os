@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "fstream": "cpp",
+        "*.tcc": "cpp",
+        "system_error": "cpp"
+    }
+}
